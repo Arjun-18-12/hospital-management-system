@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+requests
+pydantic
+pymongo
+python-multipart
+python-dotenv
+langchain
+langchain-groq
+nltk
+pydantic[email]
+langchain-community

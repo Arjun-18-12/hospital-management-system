@@ -1,0 +1,10 @@
+{
+  "source_directories": [
+    "c:/Users/admin/Downloads/one drive/OneDrive/Desktop/hospital management system"
+  ],
+  "search_path": [
+    "c:/Users/admin/Downloads/one drive/OneDrive/Desktop/hospital management system",
+    "c:/Users/admin/Downloads/one drive/OneDrive/Desktop/hospital management system/backend",
+    "c:/Users/admin/Downloads/one drive/OneDrive/Desktop/hospital management system/venv/Lib/site-packages"
+  ]
+}

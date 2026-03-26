@@ -1,0 +1,12 @@
+{
+  "venvPath": "c:/Users/admin/Downloads/one drive/OneDrive/Desktop/hospital management system",
+  "venv": "venv",
+  "extraPaths": [
+    "c:/Users/admin/Downloads/one drive/OneDrive/Desktop/hospital management system"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "c:/Users/admin/Downloads/one drive/OneDrive/Desktop/hospital management system"
+    }
+  ]
+}
